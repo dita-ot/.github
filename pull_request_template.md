@@ -23,6 +23,13 @@ about: Propose changes to fix an issue or implement a new feature
 - New feature _(non-breaking change which adds functionality)_
 - Breaking change _(fix or feature that changes existing functionality)_
 
+## Documentation and Compatibility
+<!-- Describe whether your changes require updates to docs or user plug-ins. -->
+
+- What documentation changes are needed for this feature?
+  _(Provide links to existing documentation topics that will require updates)_
+- Will this change affect backwards compatibility or other users' overrides?
+
 ## Checklist
 <!-- Verify the following points before submitting the pull request. -->
 
