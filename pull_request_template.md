@@ -36,4 +36,5 @@ about: Propose changes to fix an issue or implement a new feature
 - My code follows the code style of this project.
     -  <https://github.com/dita-ot/dita-ot/wiki/Java-Coding-Conventions>
     -  <https://github.com/dita-ot/dita-ot/wiki/XSLT-Coding-Conventions>
+    -  <https://github.com/dita-ot/docs/wiki/coding-guidelines>
 - I have updated the unit tests to reflect the changes in my code.
