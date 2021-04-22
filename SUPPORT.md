@@ -9,10 +9,10 @@ With these limited resources, we can't offer direct support, but the DITA commun
 - The [DITA-OT Users Google Group][6] is a general interest DITA-OT product forum, for questions on any aspect of the toolkit — from installation and getting started to questions about specific overrides, plug-ins, and customizations.
 - The StackOverflow developer community includes [topics related to DITA-OT][7].
 
-[1]: http://www.dita-ot.org/who_we_are
-[2]: http://www.dita-ot.org
-[3]: http://www.dita-ot.org/download
-[4]: http://www.dita-ot.org/dev
+[1]: https://www.dita-ot.org/who_we_are
+[2]: https://www.dita-ot.org
+[3]: https://www.dita-ot.org/download
+[4]: https://www.dita-ot.org/dev
 [5]: https://groups.io/g/dita-users
 [6]: https://groups.google.com/d/forum/dita-ot-users
-[7]: http://stackoverflow.com/questions/tagged/dita-ot
+[7]: https://stackoverflow.com/questions/tagged/dita-ot
