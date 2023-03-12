@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Community Support Forums
-    url: https://www.dita-ot.org/support
-    about: Please ask and answer questions in the DITA community support forums.
+  - name: Get help in GitHub Discussions 🗣
+    url: https://github.com/orgs/dita-ot/discussions
+    about: Have a question? Not sure if your issue affects everyone? Ask the community in DITA-OT GitHub Discussions!
