@@ -20,3 +20,7 @@ labels: 'feature'
 <!-- Add any more context, screenshots or files to the feature request here. -->
 <!-- To attach a file, drag and drop it into the comment box. -->
 
+<!--
+Before submitting, check the Preview tab above to verify the XML markup appears
+correctly and remember you can edit the description later to add information.
+-->
