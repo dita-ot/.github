@@ -32,3 +32,8 @@
     -  <https://github.com/dita-ot/dita-ot/wiki/XSLT-Coding-Conventions>
     -  <https://github.com/dita-ot/docs/wiki/coding-guidelines>
 - I have updated the unit tests to reflect the changes in my code.
+
+<!--
+Before submitting, check the Preview tab above to verify the XML markup appears
+correctly and remember you can edit the description later to add information.
+-->
